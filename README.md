@@ -85,4 +85,4 @@ The retrieved chunks are concatenated into a context string and injected into a 
 - Implement re-ranking (cross-encoder) on retrieved chunks for higher precision
 - Support additional document formats — DOCX, web pages, Markdown
 - Add a Gradio or Streamlit frontend for non-technical users
-- Evaluate retrieval quality using RAGAS framework
+- Evaluate retrieval quality using RAGAS framework.
